@@ -9,6 +9,7 @@ public class ClassPractice {
 String cars="Toyota, Mazdah,Tisla";
 String city= "San diego, Utah, Nevad";
 System.out.println(cars+ " " +city);
+// this is changing from remote repository		
 
 	}
 
